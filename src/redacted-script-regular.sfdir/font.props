@@ -14,13 +14,13 @@ sfntRevision: 0x00010042
 LayerCount: 2
 Layer: 0 1 "Back"  1
 Layer: 1 1 "Fore"  0
-XUID: [1021 192 1446378642 12023551]
+XUID: [1021 192 1446378642 1929418]
 FSType: 0
 OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1361331720
-ModificationTime: 1362290749
+ModificationTime: 1464943776
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -551,5 +551,5 @@ NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 52 26 15
+WinInfo: 0 26 15
 EndSplineFont
